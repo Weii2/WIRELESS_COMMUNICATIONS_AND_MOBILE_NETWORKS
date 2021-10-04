@@ -1,2 +1,6 @@
 # WIRELESS_COMMUNICATIONS_AND_MOBILE_NETWORKS
-WIRELESS_COMMUNICATIONS_AND_MOBILE_NETWORKS Project
+Wireless Communication and Mobile Networks Project
+
+Project 1 : Erlang B simulation
+
+Project 2 : Handoff Policy simulation
